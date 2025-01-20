@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-.env
-
->>>>>>> 96e41e98fa4127145f14b0c1a7f98a151271396a
 # Logs
 logs
 *.log
@@ -17,11 +12,8 @@ dist
 dist-ssr
 *.local
 
-<<<<<<< HEAD
 .env
 
-=======
->>>>>>> 96e41e98fa4127145f14b0c1a7f98a151271396a
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
